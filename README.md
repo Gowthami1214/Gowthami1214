@@ -49,19 +49,14 @@ data class Gowthami(
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 </p>
 
-### 🌐 Web & Backend
+### 🌐 Web
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 </p>
 
-### ⚙️ DevOps & Tools
+### ⚙️ Tools & Others
 <p>
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -101,12 +96,6 @@ data class Gowthami(
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Gowthami1214&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=A855F7&currStreakLabel=A855F7" width="55%"/>
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Gowthami1214&theme=tokyo-night&bg_color=0D1117&color=A855F7&line=A855F7&point=ffffff&hide_border=true" width="95%"/>
 
 </div>
@@ -118,28 +107,6 @@ data class Gowthami(
 <div align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=Gowthami1214&theme=tokyonight&no-frame=true&column=7&margin-w=10&margin-h=10" width="95%"/>
-
-</div>
-
----
-
-## 🧩 LeetCode Progress
-
-<div align="center">
-
-<img src="https://leetcard.jacoblin.cool/Gowthami1214?theme=dark&font=Fira%20Code&ext=heatmap&border=0" width="55%"/>
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-Gowthami1214-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gowthami1214)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gowthami1214)
-[![Gmail](https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@gmail.com)
 
 </div>
 
